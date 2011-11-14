@@ -1,6 +1,8 @@
 video Capture library for processing based on videoinput&Jmyron, for the analog capture card the crossbar always setting as composite mode.
-
+Windows Only!
 
 http://muonics.net/school/spring05/videoInput/
 http://webcamxtra.sourceforge.net/
 http://www.processing.org/
+
+library download https://github.com/downloads/liquidzym/RexgoVid/RexgoVid.rar
